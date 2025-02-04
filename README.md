@@ -1,4 +1,5 @@
 # osero-game  
 オセロするゲーム  
-"""
-git clone 
+```  
+git clone
+```
